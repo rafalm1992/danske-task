@@ -1,0 +1,5 @@
+{
+  "/person/*": "/person",
+  "/facility/*": "/facility",
+  "/exposure/*": "/exposure"
+}
